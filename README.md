@@ -3,7 +3,7 @@
 To get started with this project, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/ayuashu/LearReduxWithCounter.git
+   git clone https://github.com/ayuashu/LearnReduxWithCounter.git
 
 2. Navigate into the project directory:
     cd your-repo
