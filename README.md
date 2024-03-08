@@ -6,7 +6,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/ayuashu/LearnReduxWithCounter.git
 
 2. Navigate into the project directory:
-    cd your-repo
+    cd LearnReduxWithCounter
 
 3. Install dependencies:
     npm install
